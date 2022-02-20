@@ -1,0 +1,8 @@
+{
+    "Template": {
+        "TemplateName": "test template",
+        "SubjectPart": "Test email for username {{userName}}",
+        "TextPart": "Test email body",
+        "HtmlPart": "<html>\r\n<head>\r\n    <title>Test Title<\/title>\r\n<\/head>\r\n<body>\r\n    <h1> Username: {{userName}} <\/h1>\r\n<\/body>\r\n<\/html>"
+    }
+}
